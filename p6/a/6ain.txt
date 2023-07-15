@@ -1,0 +1,7 @@
+/* this is a multiline line comment one*/
+// this is a single line comment
+/* second line comment */
+// total comment is 4
+
+
+this is not a comment line
